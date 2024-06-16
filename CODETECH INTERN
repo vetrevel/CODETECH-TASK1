@@ -1,0 +1,51 @@
+NAME:M.K.VETREVEL
+ID:CT04WD2317
+DOMAIN:WEBDEVELOPEMENT
+DURATION:JUNE -  JULY
+MENTOR:MUZAMMIL AHMED 
+ACADEMIC HEAD:SRAVANI GOUNI
+
+Objects
+Learn Front-End Web Development Basics: Gain hands-on experience with HTML for structure, CSS for styling, and JavaScript for interactivity.
+
+Build a Functional To-Do List App: Create a simple yet functional web application that allows users to add tasks dynamically.
+
+Practice DOM Manipulation: Understand how to manipulate the Document Object Model (DOM) using JavaScript to create, modify, and remove elements.
+
+Enhance User Experience: Implement basic user interface elements such as input fields, buttons, and styled lists to improve usability and visual appeal.
+
+Key Activities:
+HTML Structure: Define the structure of the web page using HTML, including elements for input fields, buttons, headings, and lists.
+
+CSS Styling: Style the HTML elements using CSS to achieve a visually appealing and user-friendly layout. This includes setting colors, fonts, padding, margins, and box shadows.
+
+JavaScript Functionality:
+
+Select DOM elements using document.getElementById and document.createElement.
+Implement event listeners (addEventListener) to handle user interactions, such as adding tasks when clicking a button.
+Dynamically create and append new HTML elements (list items) based on user input.
+Clear input fields after adding tasks to improve user experience.
+Testing and Debugging: Test the application by entering tasks, verifying that they appear correctly in the list, and ensuring the user interface behaves as expected. Debug any issues with JavaScript functionality or CSS styling.
+
+Refinement and Enhancement: Refine the user interface by adjusting CSS styles for better aesthetics and usability. Consider adding features like task deletion, local storage integration, or more advanced styling techniques.
+
+Technology Used:
+HTML (HyperText Markup Language):
+
+Provides the structure and content of the web page.
+Defines elements such as <input>, <button>, <ul>, and <li>.
+CSS (Cascading Style Sheets):
+
+Styles the HTML elements to improve the visual presentation.
+Controls layout, colors, fonts, spacing, and other visual aspects.
+Enhances user experience through responsive design and aesthetic choices.
+JavaScript:
+
+Enables interactivity and dynamic behavior of the web page.
+Manipur
+Handles events like clicks (addEventListener) to trigger specific actions, such as adding tasks to the list.
+Summary:
+The project aims to provide a foundational understanding of front-end web development through practical application. By combining HTML, CSS, and JavaScript, the objective is to build a functional to-do list application that demonstrates basic DOM manipulation, styling techniques, and event handling. This project serves as a starting point for learning more advanced concepts in web development, such as data persistence, responsive design, and frameworks/libraries for richer user interfaces.
+
+
+
